@@ -1,0 +1,4 @@
+export default function initConnect() {
+    const apiKey = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2MWNjMmE2MC0xZWUxLTAxM2EtZGU0NC00NTZkNzI5YmRlMmUiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNjM1OTUwMjAwLCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6InB1YmdzdG9yZSJ9.qtmvfWdVkM9WRLO1Q6rf1buCGOioS-u5GB5f79FUWq4'
+    
+}
